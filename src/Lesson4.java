@@ -46,7 +46,7 @@ public class Lesson4 {
 
                         action2 = sc.nextInt();
                         if (action2 != 0) {
-                            System.out.println("Введте число");
+                            System.out.println("Введите число");
                             if (action2 != 5) {
                                 num[1] = sc.nextInt();
                                 sc.nextLine();
